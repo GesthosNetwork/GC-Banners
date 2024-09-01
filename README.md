@@ -1,0 +1,1 @@
+For Grasscutter gacha Banners. Rename it to "Banners.json"
